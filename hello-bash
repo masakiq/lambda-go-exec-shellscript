@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+printf "My name is $1!"
